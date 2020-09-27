@@ -1,0 +1,16 @@
+ body {
+	font-family: 'Roboto', sans-serif;
+    background: url(img/background.png) no-repeat center fixed;
+    background-size: cover;
+}
+.form-container{
+  opacity: .8;
+  position: absolute;
+}
+.ic{
+    z-index: 1;
+    font-size: 100px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
