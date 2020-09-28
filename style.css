@@ -9,6 +9,9 @@
   opacity: .9;
 
 }
+.signup-form{
+  display: none;
+}
 .row {
   justify-content: center;
 }
@@ -18,4 +21,16 @@
     margin-bottom: 25px;
     text-align: center;
 }
+.forgot{
+  float: right;
+}
+.term{
+  font-size: 13px;
+}
 
+.ii {
+  padding: 10px;
+  min-width: 40px;
+  color: red;
+  background-color: white;
+}
